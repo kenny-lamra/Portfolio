@@ -1,2 +1,2 @@
-# kennylamra.github.io
+# kenny-lamra.github.io/portfolio
 My Portfolio
